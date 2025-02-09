@@ -1,0 +1,21 @@
+﻿<Window x:Class="Гороскопп.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Гороскопп"
+        mc:Ignorable="d"
+        Title="Календарь" Height="500" Width="500"
+        ResizeMode="NoResize">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/значек_зодиака.png"/>
+        </Grid.Background>
+        <Label x:Name="lblDate" Content="Введите дату рождения от 1900 до 2025 года" VerticalAlignment="Top" Margin="35,10,0,0" FontSize="20" Foreground="White" />
+        <TextBox x:Name="txtYear" Margin="0,50,0,0" VerticalAlignment="Top" Height="30" Width="50" TextChanged="txtYear_TextChanged" PreviewTextInput="txtYear_PreviewTextInput" FontSize="18"></TextBox>
+        <Button x:Name="btnNext" Content="Далее" HorizontalAlignment="Left" Margin="420,420,0,0" VerticalAlignment="Top" Visibility="Hidden" Click="btnNext_Click"/>
+        <Button x:Name="btnClose" Content="Выход" HorizontalAlignment="Left" Margin="40,420,0,0" VerticalAlignment="Top" Visibility="Hidden" Click="btnClose_Click"/>
+        <Image x:Name="imgAnimal" Source="/Animals.png" HorizontalAlignment="Left" Height="280" Margin="75,108,0,0" VerticalAlignment="Top" Width="335" Visibility="Hidden">
+        </Image>
+    </Grid>
+</Window>

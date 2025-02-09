@@ -1,0 +1,36 @@
+C:\Users\isip\Documents\Любин Евгений ИСип-202\Wpf\Гороскопп\Гороскопп\obj\Debug\Гороскопп.csproj.AssemblyReference.cache
+C:\Users\isip\Documents\Любин Евгений ИСип-202\Wpf\Гороскопп\Гороскопп\obj\Debug\MainWindow.g.cs
+C:\Users\isip\Documents\Любин Евгений ИСип-202\Wpf\Гороскопп\Гороскопп\obj\Debug\App.g.cs
+C:\Users\isip\Documents\Любин Евгений ИСип-202\Wpf\Гороскопп\Гороскопп\obj\Debug\Гороскопп_MarkupCompile.cache
+C:\Users\isip\Documents\Любин Евгений ИСип-202\Wpf\Гороскопп\Гороскопп\obj\Debug\Гороскопп_MarkupCompile.lref
+C:\Users\isip\Documents\Любин Евгений ИСип-202\Wpf\Гороскопп\Гороскопп\bin\Debug\Гороскопп.exe.config
+C:\Users\isip\Documents\Любин Евгений ИСип-202\Wpf\Гороскопп\Гороскопп\bin\Debug\Гороскопп.exe
+C:\Users\isip\Documents\Любин Евгений ИСип-202\Wpf\Гороскопп\Гороскопп\bin\Debug\Гороскопп.pdb
+C:\Users\isip\Documents\Любин Евгений ИСип-202\Wpf\Гороскопп\Гороскопп\obj\Debug\MainWindow.baml
+C:\Users\isip\Documents\Любин Евгений ИСип-202\Wpf\Гороскопп\Гороскопп\obj\Debug\Гороскопп.g.resources
+C:\Users\isip\Documents\Любин Евгений ИСип-202\Wpf\Гороскопп\Гороскопп\obj\Debug\Гороскопп.Properties.Resources.resources
+C:\Users\isip\Documents\Любин Евгений ИСип-202\Wpf\Гороскопп\Гороскопп\obj\Debug\Гороскопп.csproj.GenerateResource.cache
+C:\Users\isip\Documents\Любин Евгений ИСип-202\Wpf\Гороскопп\Гороскопп\obj\Debug\Гороскопп.csproj.CoreCompileInputs.cache
+C:\Users\isip\Documents\Любин Евгений ИСип-202\Wpf\Гороскопп\Гороскопп\obj\Debug\Гороскопп.exe
+C:\Users\isip\Documents\Любин Евгений ИСип-202\Wpf\Гороскопп\Гороскопп\obj\Debug\Гороскопп.pdb
+C:\Users\isip\Documents\Любин Евгений ИСип-202\Wpf\Гороскопп\Гороскопп\obj\Debug\Signn.g.cs
+C:\Users\isip\Documents\Любин Евгений ИСип-202\Wpf\Гороскопп\Гороскопп\obj\Debug\Signn.baml
+C:\Users\Oksana\Desktop\Гороскопп\Гороскопп\obj\Debug\Гороскопп.csproj.AssemblyReference.cache
+C:\Users\Oksana\Desktop\Гороскопп\Гороскопп\obj\Debug\MainWindow.g.cs
+C:\Users\Oksana\Desktop\Гороскопп\Гороскопп\obj\Debug\Signn.g.cs
+C:\Users\Oksana\Desktop\Гороскопп\Гороскопп\obj\Debug\App.g.cs
+C:\Users\Oksana\Desktop\Гороскопп\Гороскопп\obj\Debug\Гороскопп_MarkupCompile.cache
+C:\Users\Oksana\Desktop\Гороскопп\Гороскопп\obj\Debug\Гороскопп_MarkupCompile.lref
+C:\Users\Oksana\Desktop\Гороскопп\Гороскопп\obj\Debug\Гороскопп.exe
+C:\Users\Oksana\Desktop\Гороскопп\Гороскопп\obj\Debug\Гороскопп.pdb
+C:\Users\Oksana\Desktop\Гороскопп\Гороскопп\bin\Debug\Гороскопп.exe.config
+C:\Users\Oksana\Desktop\Гороскопп\Гороскопп\bin\Debug\Гороскопп.exe
+C:\Users\Oksana\Desktop\Гороскопп\Гороскопп\bin\Debug\Гороскопп.pdb
+C:\Users\Oksana\Desktop\Гороскопп\Гороскопп\obj\Debug\MainWindow.baml
+C:\Users\Oksana\Desktop\Гороскопп\Гороскопп\obj\Debug\Signn.baml
+C:\Users\Oksana\Desktop\Гороскопп\Гороскопп\obj\Debug\Гороскопп.g.resources
+C:\Users\Oksana\Desktop\Гороскопп\Гороскопп\obj\Debug\Гороскопп.Properties.Resources.resources
+C:\Users\Oksana\Desktop\Гороскопп\Гороскопп\obj\Debug\Гороскопп.csproj.GenerateResource.cache
+C:\Users\Oksana\Desktop\Гороскопп\Гороскопп\obj\Debug\Гороскопп.csproj.CoreCompileInputs.cache
+C:\Users\Oksana\Desktop\Гороскопп\Гороскопп\obj\Debug\SignDate.g.cs
+C:\Users\Oksana\Desktop\Гороскопп\Гороскопп\obj\Debug\SignDate.baml
